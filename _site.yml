@@ -1,0 +1,9 @@
+name: "myCV" 
+author: "Rifah B. Abdullah" 
+output_dir: "docs" 
+output: 
+  html_document: 
+    self_contained: no 
+    theme: flatly
+navbar: 
+  title: "Rifah Abdullah CV"

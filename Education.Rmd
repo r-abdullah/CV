@@ -1,0 +1,25 @@
+---
+title: "Education"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### University of Glasgow
+
+Psychology and Neuroscience BSc – Expected 2:1 (2016 – 2020)
+ 
+**4th Year** – Modules such as: Human Development, Professional Skills, Statistical Models, Neuropsychological Deficits, Physiological Psychology, Individual Differences
+
+**3rd Year** *(Achieved 2:1)* – Topics such as: Neuroanatomy, Central nervous system disorders & treatment, Autonomic nervous system & vascular control, Homeostasis & neuroimmune system, Molecular methods, Development, Experimental techniques, Animal models
+
+#### Key reports:
+
+* **'Assessing the effects of antioxidant drug – ANOXOL – on spontaneous hypertensive stroke-prone rats in model of ischaemic stroke’** *(Achieved 1st)* – a research proposal on conducting hypothetical drug testing experiments on rats. The proposal discussed the necessary ethics, detailed methodology required and outlined the statistical analysis that would be undertaken.
+
+* **‘The effects of Prenatal Influenza infection on Central Nervous System development’** *(Achieved 1st)* – a detailed long essay evaluating the literature as it explained the effects of viral infection (influenza) on the prenatal brain development. 
+
+* **‘Investigating cross-cultural differences in deception-detection’** – a dissertation project aiming to assess the current level of deception detection across 2 or more cultural backgrounds. Exploratory analysis will be conducted post-hoc to investigate predictors and key influences.
+

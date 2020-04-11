@@ -1,0 +1,25 @@
+---
+title: "CV"
+author: "Rifah B. Abdullah"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Final year student with a keen interest in data analysis and clinical psychology. Eager to enhance analysis skills further and work in medical data science. Previous experience in Child and Adolescent Mental Health (CAMHs) research team has encouraged interest in seeking opportunities related to this field.
+
+Link to
+
+[Education](Education.html)
+
+[Science and Technology Work Experience](Science-and-Technology-Work-Experience.html)
+
+[Other Work Experience](Other-Work-Experience.html)
+
+[Achievements and Publications](Achievements---Publications.html)
+
+[Skills and Interests](Skills-and-Interests.html)
+
+Please contact me on [LinkedIn](www.linkedin.com/in/rifah-abdullah-60b239151) for my references
