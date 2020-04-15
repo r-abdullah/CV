@@ -6,15 +6,28 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br>
 
-#### Bar staff for HAP recruitment (May 2019 - present)
-* Required resilience, precise money handling and effective communication skills over long shifts. Essential to be vigilant for underage purchases and inappropriate behaviour.
+#### **Bar staff for HAP recruitment** (May 2019 - present)
+***
+Required resilience, precise money handling and effective communication skills over long shifts.
 
-#### University of Glasgow Telephone Campaign (Jan – March 2018)
-* Raised vital funds to support student scholarships, research, facilities, and equipment for the University as well as establish meaningful relationships with alumni and friends.
+Essential to be vigilant for underage purchases and inappropriate behaviour.
 
-#### Sales advisor at Stevensons, Oxford (May - Sept 2017)
-* Assisted customers with school uniform purchasing. This fast-paced environment required quick learning, effective staff coordination and precise till skills. 
+<br>
 
-#### Volunteer at Oxfam Summertown Shop, Oxford (2012 - 2016)
-* Responsibilities included operating the till, ordering stock and evaluating donations appropriate for selling.
+#### **University of Glasgow Telephone Campaign** (Jan – March 2018)
+***
+Raised vital funds to support student scholarships, research, facilities, and equipment for the University as well as establish meaningful relationships with alumni and friends.
+
+<br>
+
+#### **Sales advisor at Stevensons, Oxford** (May - Sept 2017)
+***
+Assisted customers with school uniform purchasing. This fast-paced environment required quick learning, effective staff coordination and precise till skills. 
+
+<br>
+
+#### **Volunteer at Oxfam Summertown Shop, Oxford** (2012 - 2016)
+***
+Responsibilities included operating the till, ordering stock and evaluating donations appropriate for selling.

@@ -2,9 +2,10 @@ name: "myCV"
 author: "Rifah B. Abdullah" 
 output_dir: "docs" 
 output: 
-  html_document: 
-    self_contained: no 
+  html_document:
+    self_contained: no
     theme: flatly
+    css: styles.css
 navbar: 
   title: "Rifah Abdullah CV"
   left:

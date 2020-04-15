@@ -6,19 +6,33 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br>
 
-#### University of Glasgow – Mental Health and Wellbeing department (June 2018 – Present)
-* Analysed data from ongoing BeST trials as part of funded research studentship, investigating whether age of entry into care affects the quality of parent-child dyad assessed using standardized observational tools. Findings summarised into research report and submitted to Head of College Scholar’s scheme board.
-* Trained in and using the Parent-Infant Relationship Global Assessment Scale (PIR-GAS).
-* Continue to assist rating in the trial and collaborate with other raters to ensure inter-rater reliability.
-*	Liaised with London office to ensure standardisation in ratings across location.
-*	Intention to publish a paper with further cross-sectional analysis conducted on the data.
+#### **University of Glasgow – Mental Health and Wellbeing department** (June 2018 – Present)
+***
+Analysed data from ongoing BeST trials as part of funded research studentship, investigating whether age of entry into care affects the quality of parent-child dyad assessed using standardized observational tools. Findings summarised into research report and submitted to Head of College Scholar’s scheme board.
 
-#### Technology Department at RAL, Didcot 	(July 2015)
-* Designed mechanical components on CADCAM software for open day exhibition.
+Trained in and using the Parent-Infant Relationship Global Assessment Scale (PIR-GAS).
+Continue to assist rating in the trial and collaborate with other raters to ensure inter-rater reliability.
 
-#### Teaching Assistant to Year 7 Maths Class (2014 - 2015)
-*	Required excellent communication skills as complex mathematical concepts had to be explained to struggling students.
+Liaised with London office to ensure standardisation in ratings across location.
 
-#### Outreach office at the University of Oxford’s Physics Department (June 2013)
-*	Created interactive outreach resources to encourage interest in physics for children.
+Intention to publish a paper with further cross-sectional analysis conducted on the data.
+
+<br>
+
+#### **Technology Department at RAL, Didcot** 	(July 2015)
+***
+Designed mechanical components on CADCAM software for open day exhibition.
+
+<br>
+
+#### **Teaching Assistant to Year 7 Maths Class** (2014 - 2015)
+***
+Required excellent communication skills as complex mathematical concepts had to be explained to struggling students.
+
+<br>
+
+#### **Outreach office at the University of Oxford’s Physics Department** (June 2013)
+***
+Created interactive outreach resources to encourage interest in physics for children.

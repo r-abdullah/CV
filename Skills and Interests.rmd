@@ -6,22 +6,44 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br>
 
-##### IT skills
-*	Proficient in Microsoft Office Suite 
-*	Confident at R  
-*	Capable at SPSS - keen to learn other software such as Matlab and STATA 
-*	Learning JavaScript and HTML
+#### **IT skills**
+***
 
-#### Other skills
-*	Trained PIRGAS rater
-*	Training in laboratory skills such as PCR, Enzyme Digestion and Restriction mapping
+Proficient in Microsoft Office Suite 
 
-##### Languages
-*	Native Bengali
-*	Fluent English
-*	GCSE German
+Confident at R  
 
-##### Clubs and Societies
-*	Member of the University’s Psychology Society – often attend additional lectures and seminars to expand my knowledge beyond my course and independent reading.
-*	Member of University’s Badminton Club – play twice a week and have played games for local league tournaments as well as organising tournaments amongst friends.
+Capable at SPSS - keen to learn other software such as Matlab and STATA
+
+Learning JavaScript and HTML
+
+<br>
+
+#### **Other skills**
+***
+
+Trained PIRGAS rater
+
+Training in laboratory skills such as PCR, Enzyme Digestion and Restriction mapping
+
+<br>
+
+#### **Languages**
+***
+
+Native Bengali
+
+Fluent English
+
+GCSE German
+
+<br>
+
+#### **Clubs and Societies**
+***
+
+Member of the University’s Psychology Society – often attend additional lectures and seminars to expand my knowledge beyond my course and independent reading.
+
+Member of University’s Badminton Club – play twice a week and have played games for local league tournaments as well as organising tournaments amongst friends.
