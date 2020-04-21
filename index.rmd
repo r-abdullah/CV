@@ -1,5 +1,5 @@
 ---
-title: "Rifah Abdullah"
+title: "About me"
 output: html_document
 ---
 
@@ -7,18 +7,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hi, welcome to my online CV! I am a final year student at the University of Glasgow with a keen interest in data analysis and clinical psychology. I'm eager to enhance analysis skills further and work in medical data science. Previous experience in Child and Adolescent Mental Health (CAMHs) research team has encouraged my interest in seeking opportunities related to this field.
+Hi, welcome to my online CV! 
 
-Link to
-
-[Education](Education.html)
-
-[Science and Technology Work Experience](Science-and-Technology-Work-Experience.html)
-
-[Other Work Experience](Other-Work-Experience.html)
-
-[Achievements and Publications](Achievements---Publications.html)
-
-[Skills and Interests](Skills-and-Interests.html)
+I am a final year student at the University of Glasgow with a keen interest in data analysis and clinical psychology. I'm eager to enhance analysis skills further and work in medical data science. Previous experience in Child and Adolescent Mental Health (CAMHs) research team has encouraged my interest in seeking opportunities related to this field.
 
 Please contact me on [LinkedIn](https://www.linkedin.com/in/rifah-abdullah-60b239151/) for my references

@@ -2,6 +2,10 @@
 background-color:#357876 ;
 }
 
-a:link {
+a {
   color: #357876;
+}
+
+p {
+  text-align: justify;
 }
