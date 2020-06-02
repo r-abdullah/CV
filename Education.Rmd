@@ -14,21 +14,56 @@ knitr::opts_chunk$set(echo = TRUE)
 Psychology and Neuroscience BSc – Expected 2:1 (2016 – 2020)
 
 <ul class="nav nav-tabs">
-  <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#4thYear">4th Year</a>
+  <li class="nav-item active">
+    <a class="nav-link active" data-toggle="tab" href="#4thYear">4th Year</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" data-toggle="tab" href="#3rdYear">3rd Year</a>
+    <a class="nav-link" data-toggle="tab" href="#3rdYear">3rd Year</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" data-toggle="tab" href="#keyreports">Key Reports</a>
+    <a class="nav-link" data-toggle="tab" href="#keyreports">Key Reports</a>
   </li>
 </ul>
-<div id="myTabContent" class="tab-content">
-  <div class="tab-pane fade" id="4thYear"> <br>Modules such as: Human Development, Professional Skills, Statistical Models, Neuropsychological Deficits, Physiological Psychology, Individual Differences</div>
-  <div class="tab-pane fade" id="3rdYear"> <br> <i>Achieved 2:1</i> <br><br>
-  Topics such as: Neuroanatomy, Central nervous system disorders & treatment, Autonomic nervous system & vascular control, Homeostasis & neuroimmune system, Molecular methods, Development, Experimental techniques, Animal models
+<div id="TabContent" class="tab-content active">
+  <div class="tab-pane active" id="4thYear"> 
+  <br>
+  **Modules such as:**
+  
+  * Human Development
+  
+  * Professional Skills
+  
+  * Statistical Models
+  
+  * Neuropsychological Deficits
+  
+  * Physiological Psychology
+  
+  * Individual Differences
   </div>
-  <div class="tab-pane fade active show" id="keyreports"> <br> <b>Assessing the effects of antioxidant drug – ANOXOL – on spontaneous hypertensive stroke-prone rats in model of ischaemic stroke</b> <i>(Achieved 1st)</i> – a research proposal on conducting hypothetical drug testing experiments on rats. The proposal discussed the necessary ethics, detailed methodology required and outlined the statistical analysis that would be undertaken.<br><br><b>The effects of Prenatal Influenza infection on Central Nervous System development</b><i>(Achieved 1st)</i> – a detailed long essay evaluating the literature as it explained the effects of viral infection (influenza) on the prenatal brain development.<br><br><b>Investigating cross-cultural differences in deception-detection</b> – a dissertation project aiming to assess the current level of deception detection across 2 or more cultural backgrounds. Exploratory analysis will be conducted post-hoc to investigate predictors and key influences.
+  <div class="tab-pane fade" id="3rdYear"> <br> 
+  *Achieved 2:1*
+
+  <br>
+  **Topics such as:**
+  
+  * Neuroanatomy
+  
+  * Central nervous system disorders & treatment
+  
+  * Autonomic nervous system & vascular control
+  
+  * Homeostasis & neuroimmune system
+  
+  * Molecular methods
+  
+  * Development
+  
+  * Experimental techniques
+  
+  * Animal models
+  
+  </div>
+  <div class="tab-pane fade" id="keyreports"> <br> <b>Assessing the effects of antioxidant drug – ANOXOL – on spontaneous hypertensive stroke-prone rats in model of ischaemic stroke</b> <i>(Achieved 1st)</i> – a research proposal on conducting hypothetical drug testing experiments on rats. The proposal discussed the necessary ethics, detailed methodology required and outlined the statistical analysis that would be undertaken.<br><br><b>The effects of Prenatal Influenza infection on Central Nervous System development</b> <i>(Achieved 1st)</i> – a detailed long essay evaluating the literature as it explained the effects of viral infection (influenza) on the prenatal brain development.<br><br><b>Investigating cross-cultural differences in deception-detection</b> <i>(Achieved 1st)</i> – a dissertation project aiming to assess the current level of deception detection across 2 or more cultural backgrounds. Exploratory analysis will be conducted post-hoc to investigate predictors and key influences.
   </div>
 </div>
