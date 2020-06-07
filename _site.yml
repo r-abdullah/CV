@@ -3,23 +3,6 @@ author: "Rifah B. Abdullah"
 output_dir: "docs" 
 output: 
   html_document:
-    self_contained: no
-    theme: flatly
     css: styles.css
-navbar: 
-  title: "Rifah Abdullah CV"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Education"
-      href: Education.html
-    - text: "Work Experience"
-      menu:
-        - text: "Science and Technology"
-          href: Science-and-Technology-Work-Experience.html
-        - text: "Other"
-          href: Other-Work-Experience.html
-    - text: "Achievements and Publications"
-      href: Achievements---Publications.html
-    - text: "Skills and Interests"
-      href: Skills-and-Interests.html
+    includes:
+      in_header: header.html

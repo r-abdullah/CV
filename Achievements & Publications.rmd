@@ -6,7 +6,18 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<div class=nav>
+  <ul>
+    <li><a href="index.html">About me</a></li>
+    <li><a href="Education.html">Education</a></li>
+    <li><a href="Science-and-Technology-Work-Experience.html">Scientific Work Experience</a></li>
+    <li><a href="Other-Work-Experience.html">Other Work Experience</a></li>
+    <li><a href="Achievements---Publications.html">Achievements and Publications</a></li>
+    <li><a href="Skills-and-Interests.html">Skills and Interests</a></li>
+  </ul>
+</div>
 
+<div class=main>
 ```{r, echo=FALSE, results='asis', message=FALSE, warning=FALSE}
 library(tidyverse)
 library(knitr)
@@ -18,3 +29,13 @@ dat$Achievement[2]<-cell_spec(dat$Achievement[2], link = "https://osf.io/vj58c",
 
 kable(dat, escape = FALSE) %>% kable_styling("hover")
 ```
+</div>
+
+<div class=footer>
+  <hr width="75%" align="center">
+    <p>
+      <a href="https://www.linkedin.com/in/rifah-abdullah-60b239151/"><b><i>LinkedIn</i></b></a>
+      <a href="https://github.com/r-abdullah"><b><i>GitHub</i></b></a>
+      <a href="https://orcid.org/0000-0001-8966-2171"><b><i>ORCID</i></b></a>
+    </p>
+</div>

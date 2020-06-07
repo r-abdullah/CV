@@ -6,7 +6,18 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-<br>
+<div class=nav>
+  <ul>
+    <li><a href="index.html">About me</a></li>
+    <li><a href="Education.html">Education</a></li>
+    <li><a href="Science-and-Technology-Work-Experience.html">Scientific Work Experience</a></li>
+    <li><a href="Other-Work-Experience.html">Other Work Experience</a></li>
+    <li><a href="Achievements---Publications.html">Achievements and Publications</a></li>
+    <li><a href="Skills-and-Interests.html">Skills and Interests</a></li>
+  </ul>
+</div>
+
+<div class=main>
 
 #### **University of Glasgow**
 ***
@@ -66,4 +77,15 @@ Psychology and Neuroscience BSc – Expected 2:1 (2016 – 2020)
   </div>
   <div class="tab-pane fade" id="keyreports"> <br> <b>Assessing the effects of antioxidant drug – ANOXOL – on spontaneous hypertensive stroke-prone rats in model of ischaemic stroke</b> <i>(Achieved 1st)</i> – a research proposal on conducting hypothetical drug testing experiments on rats. The proposal discussed the necessary ethics, detailed methodology required and outlined the statistical analysis that would be undertaken.<br><br><b>The effects of Prenatal Influenza infection on Central Nervous System development</b> <i>(Achieved 1st)</i> – a detailed long essay evaluating the literature as it explained the effects of viral infection (influenza) on the prenatal brain development.<br><br><b>Investigating cross-cultural differences in deception-detection</b> <i>(Achieved 1st)</i> – a dissertation project aiming to assess the current level of deception detection across 2 or more cultural backgrounds. Exploratory analysis will be conducted post-hoc to investigate predictors and key influences.
   </div>
+</div>
+
+</div>
+
+<div class=footer>
+  <hr width="75%" align="center">
+    <p>
+      <a href="https://www.linkedin.com/in/rifah-abdullah-60b239151/"><b><i>LinkedIn</i></b></a>
+      <a href="https://github.com/r-abdullah"><b><i>GitHub</i></b></a>
+      <a href="https://orcid.org/0000-0001-8966-2171"><b><i>ORCID</i></b></a>
+    </p>
 </div>

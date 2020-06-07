@@ -1,8 +1,55 @@
-.navbar{
-background-color:#357876 ;
+.nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 250px;
+  z-index: 1;
+  position: fixed;
+  top: 350px;
+  left: 5em;
 }
 
-p {
+.nav li{
+  border: 1px solid #f3f3f3;
+  border-radius: 5px;
+}
+
+.nav li a{
+  display: block;
+  text-decoration: none;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  color: #191919;
+}
+
+.nav li:hover {
+  background-color: #f3f3f3;
+}
+
+.main{
+  margin-left: 175px;
+}
+
+h1{
+  margin-left: 175px;
+  color:#357876;
+  font-weight: bold;
+}
+
+p{
   text-align: justify;
-  line-height: 1.5;
+}
+
+.footer p{
+  word-spacing: 200px;
+  color:#357876;
+}
+
+.footer a{
+  text-decoration: none;
+  position: relative;
+  text-align:center;
+  left: 175px;
 }
