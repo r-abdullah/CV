@@ -19,13 +19,14 @@ knitr::opts_chunk$set(echo = TRUE)
 </div>
 
 <div class=main>
-Hi, welcome to my online CV! 
+Hi, welcome to my online CV website! 
 
-I am a final year student at the University of Glasgow with a keen interest in data analysis and clinical psychology. I'm eager to enhance analysis skills further and work in medical data science. Previous experience in Child and Adolescent Mental Health (CAMHs) research team has encouraged my interest in seeking opportunities related to this field.
-
-Please contact me on [LinkedIn](https://www.linkedin.com/in/rifah-abdullah-60b239151/)
+I am a University of Glasgow graduate with a keen interest in data analysis and clinical psychology. I'm eager to enhance analysis skills further and work in medical data science. I am building this website as a way to learn and practice CSS, HTML and version control with GitHub.
 
 For a continuous version of my CV please click [here](https://r-abdullah.github.io/SinglepageCV/)
+
+To get in touch with me, please use [LinkedIn](https://www.linkedin.com/in/rifah-abdullah-60b239151/)
+
 </div>
 
 <div class=footer>

@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #### **University of Glasgow**
 ***
 
-Psychology and Neuroscience BSc – Expected 2:1 (2016 – 2020)
+Psychology and Neuroscience BSc – 2:1 (2016 – 2020)
 
 <ul class="nav nav-tabs">
   <li class="nav-item active">
@@ -36,7 +36,9 @@ Psychology and Neuroscience BSc – Expected 2:1 (2016 – 2020)
   </li>
 </ul>
 <div id="TabContent" class="tab-content active">
-  <div class="tab-pane active" id="4thYear"> 
+  <div class="tab-pane active" id="4thYear"> <br> 
+  *Achieved 2:1*
+
   <br>
   **Modules such as:**
   
@@ -51,6 +53,10 @@ Psychology and Neuroscience BSc – Expected 2:1 (2016 – 2020)
   * Physiological Psychology
   
   * Individual Differences
+  
+  * Social Psychology
+  
+  * Cognitive Psychology
   </div>
   <div class="tab-pane fade" id="3rdYear"> <br> 
   *Achieved 2:1*
